@@ -1,4 +1,4 @@
-update=2015 March 29, Sunday 00:49:12
+update=2015 March 29, Sunday 11:40:19
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=/Users/chamod/kicad/kicad-library/library
+LibDir=/Users/chamod/kicad/kicad-library/library;/Users/chamod/kicad/library/kicad-custom-library
 [eeschema/libraries]
 LibName1=ac-dc
 LibName2=actel
@@ -98,3 +98,4 @@ LibName66=video
 LibName67=xilinx
 LibName68=74xgxx
 LibName69=74xx
+LibName70=/Users/chamod/kicad/library/eschema/c_integrated
